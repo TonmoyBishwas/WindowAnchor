@@ -62,6 +62,12 @@ Scripts/build_app.sh 1.0.0     # → dist/WindowAnchor.app + dist/WindowAnchor-1
 
 Requires Xcode 16+ command line tools. Run the unit tests with `swift test`.
 
+## Contributing
+
+Issues and pull requests are welcome! Start with [CONTRIBUTING.md](CONTRIBUTING.md)
+for the workflow and [CODEBASE.md](CODEBASE.md) for a ground-level tour of how the
+app works internally.
+
 ## How it works
 
 WindowAnchor uses the macOS Accessibility API to position windows and a listen-only
